@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I also lift weights that makes me calm**
 
+[![@Abi beniyal's Holopin badges](https://holopin.me/beneyalraj)](https://holopin.io/@beneyalraj)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abibeniyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abibeniyal" height="30" width="40" /></a>
