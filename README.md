@@ -7,7 +7,8 @@
 
 - ⚡ Fun fact **I also lift weights that makes me calm**
 
-[![@Abi beniyal's Holopin badges](https://www.holopin.io/@beneyalraj#badges)](https://holopin.io/beneyalraj)
+[![@Abi beniyal's Holopin badges](https://holopin.me/beneyalraj)](https://holopin.io/@beneyalraj)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beneyalraj&label=Profile%20views&color=0e75b6&style=flat" alt="beneyalraj" /> </p>
 
