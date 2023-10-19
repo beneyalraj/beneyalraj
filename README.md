@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **tailwindcss,reactjs,javascript**
 
-- ⚡ Fun fact **I also lift weights that makes me calm**
+- ⚡ Fun fact **I also lift weights, Stuck in a never ending cycle of bulking and cutting**
 
 [![@Abi beniyal's Holopin badges](https://holopin.me/beneyalraj)](https://holopin.io/@beneyalraj)
 
